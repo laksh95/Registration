@@ -1,0 +1,122 @@
+img 							/*----tick Logo----*/
+{
+	float: left;
+	height: 30px;
+	width: 30px;
+}
+.header{						/*----Registration----*/
+	margin-top: 20px;
+	font-family: verdana;
+	font-size: 24px;
+	color:grey;
+}
+h4{								/*----All the headings----*/
+	color: green;
+	font-family: verdana;
+	margin-left: 10px;
+}
+.content-left{					/*----All the data fields in futher information----*/
+	margin-left: 100px;
+}
+.set1{							/*----Data fields ofaccount details----*/
+	width:40%;
+	float:left;
+}
+.account{						/*----Account details div class----*/
+	height:200px;
+}
+.content-phone{				
+	margin-left: 55.5%;
+}
+.set2{							/*----obligatory fields, div class----*/
+	width:20%;
+	float: left;
+}
+.content{						/*----class for labels in account and personal details----*/
+	float: right;
+}
+.warn{							/*----Obligatory label----*/
+	float: right;
+	margin-top:40px;
+	font-size: 14px;
+	margin-right: 50px;
+}
+.set3{						/*----Further  and personal information div class----*/
+	width: 50%;
+	float:left;
+	/*border-right:2px solid grey;*/
+	/*padding: 10px;*/
+}
+.txtbox{				/*----All the textboxes----*/
+	width:250px;
+	float:right;
+	margin-right: 10px;
+}
+.set4{					/*----terms and conditions----*/
+	width:60%;
+	float: left;
+}
+.content-check			/*----Checkboxes in terms and mailing----*/
+{
+	margin-left: 20px;	
+}
+.set5{					
+	width:30%;
+	align-content: center;
+	float: left;
+}
+.btn{						/*----Registration button----*/
+	background-color: green;
+	margin-top: 8px;
+	border-radius: 8px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	font-size:20px;
+	color:white;
+	padding:12px;
+}
+.help{			/*----help information----*/
+	float:right;
+	border:1px solid grey;
+	border-radius: 4px;
+	background: linear-gradient(#b3ffb3, white);
+	padding: 5px;
+}
+.txt{			/*----help info text----*/
+	padding-left: :10px;
+	padding-right: 10px;
+	text-align: justify;
+}
+.terms{
+	border:1px solid grey;
+	border-radius: 4px;
+}
+.content-street{
+	float: right;
+	color: grey;
+}
+.content-web{
+	float: right;
+	color: grey;
+	font-size: 13px;
+}
+#acc
+{
+	border-bottom: none;
+	border-right: none;
+	border-left: none;
+	border-color: grey;
+}
+#pers
+{
+	border-bottom: none;
+	border-right: none;
+	border-left: none;
+	border-color: grey;
+}
+#fur
+{
+	border-right: none;
+	border-bottom: none;
+	margin-left: -2px;
+	border-color:grey;
+}
